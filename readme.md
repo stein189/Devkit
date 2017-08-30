@@ -2,7 +2,7 @@
 
 ### Setting up the project
 
-*Clone the project*   
+**Clone the project**   
 It might be a good idea to clone the project in your home directory, in that way you are sure you have the right permissions and the project will be easy to find.   
 
 ``` git clone git clone git@bitbucket.org:codedocs/devkit.git ```   
@@ -18,7 +18,7 @@ For more information about rulesets: http://pear.php.net/manual/en/package.php.p
 
 ### Installing the devkit
 
-*Go into the project folder and run the setup.py*   
+**Go into the project folder and run the setup.py**    
 
 ``` sudo python3 ./setup.py ```
 
@@ -37,7 +37,7 @@ If not please create a new with the given error message.
 
 ### Using the devkit
 
-*Activating phpcs for a project*
+**Activating phpcs for a project**
 
 1. use your terminal and navigate to the root directory of the project (the project must be an git repository)
 2. when you are in the root of your project execute the following command in your terminal (in the root there must be an .git folder, you can verify this by typing ls -la)
