@@ -32,7 +32,7 @@ Downloading the phpcs.phar and moving it to the devkit folder...
 Installation complete!
 ```
 
-If not please create a new with the given error message.
+If not please create a ticket with the given error message.
 
 
 ### Using the devkit
