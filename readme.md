@@ -5,7 +5,7 @@
 **Clone the project**   
 It might be a good idea to clone the project in your home directory, in that way you are sure you have the right permissions and the project will be easy to find.   
 
-``` git clone git clone git@bitbucket.org:codedocs/devkit.git ```   
+``` git clone git@bitbucket.org:codedocs/devkit.git ```   
 
 
 ### Changing the phpcs ruleset
@@ -26,6 +26,7 @@ If everything went right you should see the following:
 
 ```
 Installing the devkit...
+Creating the devkit folder...
 Moving the default files to the devkit folder...
 Downloading the phpcs.phar and moving it to the devkit folder...
 
