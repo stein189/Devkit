@@ -7,7 +7,7 @@
 # see the README
 
 PHPCS_BIN=./bin/phpcs
-PHPCS_CODING_STANDARD=./etc/codesniffer/ruleset.xml
+PHPCS_CODING_STANDARD=./codesniffer/ruleset.xml
 PHPCS_IGNORE=
 TMP_STAGING=".tmp_staging"
 
