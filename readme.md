@@ -1,4 +1,11 @@
-# Getting started
+# DEVKIT
+
+## Intoduction
+
+The devkit is a toolbox which makes it easy to install codesniffer into your projects.   
+The kit also alows you to manage your ruleset.xml in one location for all your projects.  
+
+## Getting started
 
 ### Setting up the project
 
@@ -50,3 +57,15 @@ After you typed the devkit command you will see a simple menu, to install codesn
 Now when you try to commit an .php file which contains code that is in violation with your ruleset, you will see an error.
 
 Thats it!
+
+
+### Updating the devkit
+
+When a newer version is available you can update the devkit by running the following commands
+
+``` git pull origin master && sudo python3 ./setup.py ```
+
+
+------------------------------------------
+
+Note: when you want to create a custom ruleset, fork this project!
