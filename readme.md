@@ -3,7 +3,7 @@
 ## Intoduction
 
 The devkit is a toolbox which makes it easy to install codesniffer into your projects.   
-The kit also alows you to manage your ruleset.xml in one location for all your projects.  
+The kit also allows you to manage your ruleset.xml in one location for all your projects.  
 
 ## Getting started
 
